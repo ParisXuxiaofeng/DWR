@@ -4,6 +4,6 @@ public class Test
 {
 	public String getName()
 	{
-		return "date1";
+		return "date12";
 	}
 }
