@@ -5,7 +5,7 @@ public class Test
 	public String getName()
 	{
 <<<<<<< HEAD
-		return "date1234s212";
+		return "date12d34s212";
 =======
 <<<<<<< HEAD
 		return "date1234s23";
